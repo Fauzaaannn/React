@@ -3,7 +3,7 @@ import Navbar from './component/Navbar/Navbar'
 
 const App = () => {
   return (
-    <div className="overflow-x-hidden">
+    <div>
       <Navbar />
     </div>
   )
